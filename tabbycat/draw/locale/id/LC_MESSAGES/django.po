@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-02 23:45\n"
+"PO-Revision-Date: 2020-11-02 23:57\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -50,96 +50,96 @@ msgstr "Terlalu banyak pertukaran"
 
 #: draw/generator/__init__.py:16
 msgid "One-up-one-down (history)"
-msgstr ""
+msgstr "Satu-atas-satu-bawah (histori)"
 
 #: draw/generator/__init__.py:17
 msgid "One-up-one-down (institution)"
-msgstr ""
+msgstr "Satu-atas-satu-bawah (institusi)"
 
 #: draw/generator/__init__.py:18
 msgid "One-up-one-down (to accommodate)"
-msgstr ""
+msgstr "Satu-atas-satu-bawah (untuk diakomodasi)"
 
 #: draw/generator/__init__.py:19
 msgid "Bubble up (history)"
-msgstr ""
+msgstr "Gelembung atas (histori)"
 
 #: draw/generator/__init__.py:20
 msgid "Bubble down (history)"
-msgstr ""
+msgstr "Gelembung bawah (histori)"
 
 #: draw/generator/__init__.py:21
 msgid "Bubble up (institution)"
-msgstr ""
+msgstr "Gelembung atas (institusi)"
 
 #: draw/generator/__init__.py:22
 msgid "Bubble down (institution)"
-msgstr ""
+msgstr "Gelembung bawah (institusi)"
 
 #: draw/generator/__init__.py:23
 msgid "Bubble up (to accommodate)"
-msgstr ""
+msgstr "Gelembung atas (untuk diakomodasi)"
 
 #: draw/generator/__init__.py:24
 msgid "Bubble down (to accommodate)"
-msgstr ""
+msgstr "Gelembung bawah (untuk diakomodasi)"
 
 #: draw/generator/__init__.py:25
 msgid "Can't bubble up/down"
-msgstr ""
+msgstr "Tidak bisa menggelembungkan ke atas/bawah"
 
 #: draw/generator/__init__.py:26
 msgid "Pull-up team"
-msgstr ""
+msgstr "Tim pull-up"
 
 #: draw/generator/bpelimination.py:36 draw/generator/elimination.py:68
 #, python-format
 msgid "%d debates in the previous round don't have a result."
-msgstr ""
+msgstr "%d debat pada ronde sebelumnya tidak memiliki hasil."
 
 #: draw/generator/bpelimination.py:38
 #, python-format
 msgid "%d debates in the previous round don't have exactly two teams advancing."
-msgstr ""
+msgstr "%d debat pada ronde sebelumnya tidak memiliki tepat 2 tim yang lolos."
 
 #: draw/generator/bpelimination.py:71
 #, python-format
 msgid "The room ranks of the partial elimination round indicate that an odd number of teams (%(nbypassing)d) bypassed it."
-msgstr ""
+msgstr "Ranking ruangan dari ronde eliminasi parsial mengindikasikan jumlah tim ganjil (%(nbypassing)d) melompatinya."
 
 #: draw/generator/bpelimination.py:75
 #, python-format
 msgid "The room ranks of the partial elimination round indicate that %(nbypassing)d teams bypassed it, but %(advancing)d teams advanced from it."
-msgstr ""
+msgstr "Ranking ruangan dari ronde eliminasi parsial mengindikasikan %(nbypassing)d tim melompatinya, tetapi %(advancing)d tim lolos darinya."
 
 #: draw/generator/bpelimination.py:122
 #, python-format
 msgid "The number of debates (%d) in the last round is not a power of two."
-msgstr ""
+msgstr "Jumlah debat (%d) pada ronde sebelumnya tidak berjumlah dua pangkat n."
 
 #: draw/generator/bphungarian.py:171
 #, python-format
 msgid "The Rényi order can't be negative, and it's currently set to %(alpha)f."
-msgstr ""
+msgstr "Urutan Rényi tidak bisa negatif, dan saat ini diset ke %(alpha)f."
 
 #: draw/generator/common.py:51
 #, python-format
 msgid "The number of teams presented for the draw was not a multiple of %(num)d."
-msgstr ""
+msgstr "Jumlah tim yang dipresentasikan untuk pengundian bukan kelipatan dari %(num)d."
 
 #: draw/generator/common.py:54
 msgid "There were no teams for the draw."
-msgstr ""
+msgstr "Tidak ada tim untuk pengundian."
 
 #: draw/generator/elimination.py:43
 #, python-format
 msgid "There are only %d teams breaking in this category; there need to be at least two to generate an elimination round draw."
-msgstr ""
+msgstr "Hanya ada %d tim breaking pada kategori ini; harus ada paling tidak dua untuk membangkitkan undian ronde eliminasi."
 
 #: draw/generator/elimination.py:75
 #, python-format
 msgid "The number of teams (%d) in this round is not a power of two."
-msgstr ""
+msgstr "Jumlah tim (%d) pada ronde ini bukan kelipatan dua."
 
 #: draw/generator/powerpair.py:78
 #, python-format
@@ -149,47 +149,47 @@ msgstr ""
 #: draw/generator/random.py:97
 #, python-format
 msgid "There were %(aff_count)d affirmative teams but %(neg_count)d negative teams."
-msgstr ""
+msgstr "Ada %(aff_count)d tim afirmatif tetapi %(neg_count)d tim negatif."
 
 #: draw/generator/random.py:100
 msgid "One or more teams had an allocated side that wasn't affirmative or negative."
-msgstr ""
+msgstr "Satu atau lebih tim memiliki sisi yang dialokasikan bukan berupa afirmatif atau negatif."
 
 #: draw/manager.py:41
 #, python-format
 msgid "The draw type %(type)s can't be used with two-team formats."
-msgstr ""
+msgstr "Tipe pengundian %(type)s tidak dapat digunakan pada format dua-tim."
 
 #: draw/manager.py:43
 #, python-format
 msgid "The draw type %(type)s can't be used with British Parliamentary."
-msgstr ""
+msgstr "Tipe pengundian %(type)s tidak dapat digunakan pada British Parliamentary."
 
 #: draw/manager.py:45
 #, python-format
 msgid "Unrecognised \"teams in debate\" option: %(option)s"
-msgstr ""
+msgstr "Opsi \"tim dalam debat\" tidak dikenali: %(option)s"
 
 #: draw/manager.py:269
 #, python-format
 msgid "The break size (%(size)d) for this break category was invalid. It must be either six times or four times a power of two."
-msgstr ""
+msgstr "Ukuran break (%(size)d) untuk kategori break ini tidak valid. Itu harus enam kali atau empat kali dari dua pangkat n."
 
 #: draw/models.py:28
 msgid "none"
-msgstr ""
+msgstr "tidak ada"
 
 #: draw/models.py:29
 msgid "postponed"
-msgstr ""
+msgstr "ditunda"
 
 #: draw/models.py:30
 msgid "draft"
-msgstr ""
+msgstr "draf"
 
 #: draw/models.py:31
 msgid "confirmed"
-msgstr ""
+msgstr "terkonfirmasi"
 
 #: draw/models.py:37 draw/models.py:384
 msgid "round"
@@ -201,27 +201,27 @@ msgstr "ruangan"
 
 #: draw/models.py:42
 msgid "bracket"
-msgstr ""
+msgstr "bracket"
 
 #: draw/models.py:44
 msgid "room rank"
-msgstr ""
+msgstr "ranking ruangan"
 
 #: draw/models.py:50
 msgid "importance"
-msgstr ""
+msgstr "tingkat kepentingan"
 
 #: draw/models.py:52
 msgid "result status"
-msgstr ""
+msgstr "status hasil"
 
 #: draw/models.py:54
 msgid "sides confirmed"
-msgstr ""
+msgstr "sisi terkonfirmasi"
 
 #: draw/models.py:55
 msgid "If unchecked, the sides assigned to teams in this debate are just placeholders."
-msgstr ""
+msgstr "Jika tidak dicek, sisi yang dilekatkan ke tim pada debat ini hanya berupa pengisi ruang."
 
 #: draw/models.py:58 draw/models.py:273
 msgid "debate"
@@ -229,7 +229,7 @@ msgstr "debat"
 
 #: draw/models.py:59
 msgid "debates"
-msgstr ""
+msgstr "debat"
 
 #. Translators: This is appended to a list of teams, e.g. "Auckland
 #. 1, Vic Wellington 1 (sides not confirmed)". Mind the leading
