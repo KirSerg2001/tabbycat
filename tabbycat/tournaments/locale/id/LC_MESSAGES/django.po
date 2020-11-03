@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-30 20:00-0300\n"
-"PO-Revision-Date: 2020-10-26 04:59\n"
+"PO-Revision-Date: 2020-11-03 00:11\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -819,11 +819,11 @@ msgstr ""
 
 #: tournaments/utils.py:12
 msgid "affirmative"
-msgstr ""
+msgstr "afirmatif"
 
 #: tournaments/utils.py:13
 msgid "negative"
-msgstr ""
+msgstr "negatif"
 
 #: tournaments/utils.py:14
 msgid "affirmative team"
@@ -927,7 +927,7 @@ msgstr ""
 
 #: tournaments/utils.py:54
 msgid "opening government"
-msgstr ""
+msgstr "pemerintah pembuka"
 
 #: tournaments/utils.py:55
 msgid "opening opposition"
