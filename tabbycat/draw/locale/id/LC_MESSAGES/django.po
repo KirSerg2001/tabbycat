@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-02 23:57\n"
+"PO-Revision-Date: 2020-11-03 00:11\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -236,25 +236,25 @@ msgstr "debat"
 #. space.
 #: draw/models.py:78 draw/models.py:103
 msgid " (sides not confirmed)"
-msgstr ""
+msgstr " (sisi tidak terkonfirmasi)"
 
 #. Translators: This goes between teams in a debate, e.g. "Auckland 1
 #. vs Vic Wellington 1". Mind the leading and trailing spaces.
 #: draw/models.py:90 draw/models.py:107
 msgid " vs "
-msgstr ""
+msgstr " vs "
 
 #: draw/models.py:263
 msgid "affirmative"
-msgstr ""
+msgstr "afirmatif"
 
 #: draw/models.py:264
 msgid "negative"
-msgstr ""
+msgstr "negatif"
 
 #: draw/models.py:265
 msgid "opening government"
-msgstr ""
+msgstr "pemerintah pembuka"
 
 #: draw/models.py:266
 msgid "opening opposition"
@@ -484,13 +484,13 @@ msgstr[0] ""
 #, python-format
 msgid "1 debate does not have a room."
 msgid_plural "%(ndebates)s debates do not have a room."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat tidak memiliki ruangan."
 
 #: draw/templates/draw_alerts_venues.html:14
 #, python-format
 msgid "There are multiple debates in <strong>%(rooms)s</strong>."
 msgid_plural "The following <strong>%(ndebates)s</strong> rooms have multiple debates in them: <strong>%(rooms)s</strong>"
-msgstr[0] ""
+msgstr[0] "<strong>%(ndebates)s</strong> ruangan ini memiliki lebih dari satu debat di dalamnya: <strong>%(rooms)s</strong>"
 
 #: draw/templates/draw_alerts_venues.html:23
 #, python-format
