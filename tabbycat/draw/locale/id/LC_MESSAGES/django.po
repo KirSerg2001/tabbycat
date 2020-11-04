@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-04 01:55\n"
+"PO-Revision-Date: 2020-11-04 02:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -350,73 +350,74 @@ msgstr "Berubah dari tidak seimbang menjadi seimbang"
 
 #: draw/tables.py:234
 msgid "Best improvement possible, still imbalanced"
-msgstr ""
+msgstr "Perbaikan optimal memungkinkan, masih tidak seimbang"
 
 #: draw/tables.py:235
 msgid "Was imbalanced and still imbalanced"
-msgstr ""
+msgstr "Sebelumnya tidak seimbang dan masih tidak seimbang"
 
 #: draw/tables.py:256 draw/tables.py:378
 msgid "No metrics in the team standings precedence"
-msgstr ""
+msgstr "Tidak ada metrik pada presedensi urutan tim"
 
 #: draw/tables.py:282
 msgid "Side"
-msgstr ""
+msgstr "Sisi"
 
 #: draw/tables.py:283
 msgid "Position this round"
-msgstr ""
+msgstr "Memposisikan ronde ini"
 
 #: draw/tables.py:287
 msgid "Before"
-msgstr ""
+msgstr "Sebelum"
 
 #: draw/tables.py:288
 msgid "Side history before this round"
-msgstr ""
+msgstr "Histori sisi sebelum ronde ini"
 
 #: draw/tables.py:292
 msgid "After"
-msgstr ""
+msgstr "Setelah"
 
 #: draw/tables.py:293
 msgid "Side history after this round"
-msgstr ""
+msgstr "Histori sisi setelah ronde ini"
 
 #: draw/tables.py:303 draw/tables.py:398
 msgid "Cost"
-msgstr ""
+msgstr "Biaya"
 
 #: draw/tables.py:303
 msgid "Position cost"
-msgstr ""
+msgstr "Biaya Posisi"
 
 #: draw/tables.py:316
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: draw/tables.py:360
 msgid "Teams with this many points are permitted in this debate<br>\n"
 "(bracket in bold)"
-msgstr ""
+msgstr "Tim dengan poin sebanyak ini diperbolehkan di dalam debat ini<br>\n"
+"(bracket ditebalkan)"
 
 #: draw/tables.py:386
 #, python-format
 msgid "%(team)s: %(metric)s"
-msgstr ""
+msgstr "%(team)s: %(metric)s"
 
 #: draw/tables.py:393
 msgid "side history before this round"
-msgstr ""
+msgstr "histori sisi sebelum ronde ini"
 
 #: draw/tables.py:393
 msgid "Sides"
-msgstr ""
+msgstr "Sisi"
 
 #: draw/tables.py:398
 msgid "position cost"
-msgstr ""
+msgstr "biaya posisi"
 
 #: draw/templates/admin/draw/debateteam/delete_warning.html:5
 msgid "STOP!!! Read this first! Deleting debate teams from the database may crash Tabbycat!"
