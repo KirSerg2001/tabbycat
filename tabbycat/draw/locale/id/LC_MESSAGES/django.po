@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-03 00:11\n"
+"PO-Revision-Date: 2020-11-04 01:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -144,7 +144,7 @@ msgstr "Jumlah tim (%d) pada ronde ini bukan kelipatan dua."
 #: draw/generator/powerpair.py:78
 #, python-format
 msgid "%(noninteger)d out of %(total)d teams have a noninteger first metric in the team standings. Intermediate brackets require the first team standings metric to be an integer (typically points or wins)."
-msgstr ""
+msgstr "%(noninteger)d dari %(total)d tim memiliki metrik pertama berupa bukan bilangan bulat pada urutan tim. Bracket intermediate membutuhkan urutan tim pertama berupa bilangan bulat (biasanya poin atau jumlah kemenangan)."
 
 #: draw/generator/random.py:97
 #, python-format
@@ -258,15 +258,15 @@ msgstr "pemerintah pembuka"
 
 #: draw/models.py:266
 msgid "opening opposition"
-msgstr ""
+msgstr "oposisi pembuka"
 
 #: draw/models.py:267
 msgid "closing government"
-msgstr ""
+msgstr "pemerintah penutup"
 
 #: draw/models.py:268
 msgid "closing opposition"
-msgstr ""
+msgstr "oposisi penutup"
 
 #: draw/models.py:275 draw/models.py:386
 msgid "team"
@@ -274,78 +274,79 @@ msgstr "tim"
 
 #: draw/models.py:277 draw/models.py:388
 msgid "side"
-msgstr ""
+msgstr "sisi"
 
 #: draw/models.py:283
 msgid "debate team"
-msgstr ""
+msgstr "tim debat"
 
 #: draw/models.py:284
 msgid "debate teams"
-msgstr ""
+msgstr "tim debat"
 
 #: draw/models.py:312
 #, python-format
 msgid "placed %(place)s"
-msgstr ""
+msgstr "pada posisi %(place)s"
 
 #: draw/models.py:314 draw/models.py:321
 msgid "result unknown"
-msgstr ""
+msgstr "hasil tidak diketahui"
 
 #: draw/models.py:317
 msgid "won"
-msgstr ""
+msgstr "menang"
 
 #: draw/models.py:319
 msgid "lost"
-msgstr ""
+msgstr "kalah"
 
 #: draw/models.py:392
 msgid "team side allocation"
-msgstr ""
+msgstr "alokasi sisi tim"
 
 #: draw/models.py:393
 msgid "team side allocations"
-msgstr ""
+msgstr "alokasi sisi tim"
 
 #. Translators: e.g. "Affirmative: Rank", "Government: Draw strength",
 #. "Opening government: Total speaker score", "Closing opposition: Number of firsts"
 #: draw/tables.py:33
 #, python-format
 msgid "%(side)s: %(metric)s"
-msgstr ""
+msgstr "%(side)s: %(metric)s"
 
 #: draw/tables.py:76
 #, python-format
 msgid "Team %(num)d"
-msgstr ""
+msgstr "Tim %(num)d"
 
 #: draw/tables.py:88
 msgid "Room rank of this debate"
-msgstr ""
+msgstr "Ranking ruangan pada debat ini"
 
 #: draw/tables.py:96
 msgid "Bracket of this debate"
-msgstr ""
+msgstr "Bracket debat ini"
 
 #: draw/tables.py:165
 msgid "side history<br>\n"
 "(number of times the team has been on each side before this round)"
-msgstr ""
+msgstr "histori sisi<br>\n"
+"(jumlah berapa kali tim berada pada setiap sisi sebelum ronde ini)"
 
 #. Translators: Abbreviation for "side history"
 #: draw/tables.py:167
 msgid "SH"
-msgstr ""
+msgstr "HS"
 
 #: draw/tables.py:232
 msgid "Went from balanced to imbalanced"
-msgstr ""
+msgstr "Berubah dari seimbang menjadi tidak seimbang"
 
 #: draw/tables.py:233
 msgid "Went from imbalanced to balanced"
-msgstr ""
+msgstr "Berubah dari tidak seimbang menjadi seimbang"
 
 #: draw/tables.py:234
 msgid "Best improvement possible, still imbalanced"
