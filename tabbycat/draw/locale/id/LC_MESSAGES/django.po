@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-05 02:00\n"
+"PO-Revision-Date: 2020-11-05 02:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -578,11 +578,11 @@ msgstr "Detail Mosi"
 #, python-format
 msgid "%(motions_count)s motion has been entered."
 msgid_plural "%(motions_count)s motions have been entered."
-msgstr[0] ""
+msgstr[0] "%(motions_count)s mosi sudah dimasukkan."
 
 #: draw/templates/draw_display_admin.html:60
 msgid "Edit motions"
-msgstr ""
+msgstr "Sunting mosi"
 
 #: draw/templates/draw_display_admin.html:63
 msgid "Your configuration/format requires motions to be specified as part of ballot entry. Make sure they are added before results come in!"
@@ -590,7 +590,7 @@ msgstr "Konfigurasi/format anda mewajibkan mosi untuk ditulis dalam balot. Pasti
 
 #: draw/templates/draw_display_admin.html:65
 msgid "Enter motions"
-msgstr ""
+msgstr "Masukkan mosi"
 
 #: draw/templates/draw_display_admin.html:75
 msgid "The motion has been entered."
