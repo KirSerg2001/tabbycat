@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-05 02:05\n"
+"PO-Revision-Date: 2020-11-05 23:26\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -594,11 +594,11 @@ msgstr "Masukkan mosi"
 
 #: draw/templates/draw_display_admin.html:75
 msgid "The motion has been entered."
-msgstr ""
+msgstr "Mosi telah dimasukkan."
 
 #: draw/templates/draw_display_admin.html:87
 msgid "Edit the motion"
-msgstr ""
+msgstr "Sunting mosinya"
 
 #: draw/templates/draw_display_admin.html:90
 msgid "A motion should be added if you want to display it to the auditorium or print in on your ballots (using the links below) or to display it (later) on the public motions page."
@@ -606,23 +606,23 @@ msgstr "Mosi harus ditambahkan apabila anda ingin menampilkannya di auditorium a
 
 #: draw/templates/draw_display_admin.html:92
 msgid "Enter a motion"
-msgstr ""
+msgstr "Masukkan mosi"
 
 #: draw/templates/draw_display_admin.html:106
 msgid "Release Draw"
-msgstr ""
+msgstr "Rilis Pengundian"
 
 #: draw/templates/draw_display_admin.html:112
 msgid "You have not generated a draw for this round yet. There is nothing to release."
-msgstr ""
+msgstr "Anda belum membangkitkan pengundian untuk ronde ini. Tidak ada yang bisa dirilis."
 
 #: draw/templates/draw_display_admin.html:117
 msgid "The draw for this round is still in a draft state. Confirm the draw before releasing it."
-msgstr ""
+msgstr "Pengundian untuk ronde ini masih dalam keadaan draf. Konfirmasi Pengundian terlebih dahulu sebelum merilisnya."
 
 #: draw/templates/draw_display_admin.html:122
 msgid "Unrelease draw to public"
-msgstr ""
+msgstr "Tarik kembali rilis pengundian ke publik"
 
 #: draw/templates/draw_display_admin.html:127
 msgid "The draw has been released publicly."
