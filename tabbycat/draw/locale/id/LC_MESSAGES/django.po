@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-05 00:12\n"
+"PO-Revision-Date: 2020-11-05 02:00\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -450,37 +450,37 @@ msgstr[0] "%(ndebates)s debat tidak memiliki ketua."
 #, python-format
 msgid "<strong>%(adjudicators)s</strong> is adjudicating multiple debates."
 msgid_plural "The following <strong>%(nadjs)s</strong> adjudicators are adjudicating multiple debates: <strong>%(adjudicators)s</strong>"
-msgstr[0] ""
+msgstr[0] "<strong>%(nadjs)s</strong> juri berikut ini menjurikan lebih dari satu debat: <strong>%(adjudicators)s</strong>"
 
 #: draw/templates/draw_alerts_adjudicators.html:24
 #, python-format
 msgid "1 debate has a panel with an even number of adjudicators."
 msgid_plural "%(ndebates)s debates have panels with an even number of adjudicators."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat memiliki panelis dengan jumlah juri genap."
 
 #: draw/templates/draw_alerts_adjudicators.html:33
 #, python-format
 msgid "1 debate has an adjudicator conflict."
 msgid_plural "%(ndebates)s debates have adjudicator conflicts."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat memiliki konfilik juri."
 
 #: draw/templates/draw_alerts_adjudicators.html:42
 #, python-format
 msgid "<strong>%(adjudicators)s</strong> is unavailable this round, but is assigned to a debate."
 msgid_plural "The following <strong>%(nadjs)s</strong> adjudicators are unavailable this round, but are assigned to debates: <strong>%(adjudicators)s</strong>"
-msgstr[0] ""
+msgstr[0] "<strong>%(nadjs)s</strong> berikut ini tidak tersedia di ronde ini, tetapi ditugaskan pada debat: <strong>%(adjudicators)s</strong>"
 
 #: draw/templates/draw_alerts_adjudicators.html:51
 #, python-format
 msgid "1 adjudicator is available but not assigned to a debate."
 msgid_plural "%(ndebates)s adjudicators are available but not assigned to a debate."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s juri tersedia tetapi tidak ditugaskan pada sebuah debat."
 
 #: draw/templates/draw_alerts_teams.html:6
 #, python-format
 msgid "<strong>%(teams)s</strong> is competing in multiple debates."
 msgid_plural "The following <strong>%(nteams)s</strong> teams are competing in multiple debates: <strong>%(teams)s</strong>"
-msgstr[0] ""
+msgstr[0] "<strong>%(nteams)s</strong> tim berikut ini bertanding pada lebih dari satu debat: <strong>%(teams)s</strong>"
 
 #: draw/templates/draw_alerts_venues.html:5
 #, python-format
@@ -498,7 +498,7 @@ msgstr[0] "<strong>%(ndebates)s</strong> ruangan ini memiliki lebih dari satu de
 #, python-format
 msgid "1 debate has a room constraint violation."
 msgid_plural "%(ndebates)s debates have room constraint violations."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat melanggar batasan ruangan."
 
 #: draw/templates/draw_base.html:6
 msgid "Availability"
@@ -506,40 +506,40 @@ msgstr "Ketersediaan"
 
 #: draw/templates/draw_base.html:11 draw/templates/draw_status_draft.html:9
 msgid "Edit Sides/Matchups"
-msgstr ""
+msgstr "Ubah Sisi/Pasangan"
 
 #: draw/templates/draw_base.html:16
 msgid "Redo Draw"
-msgstr ""
+msgstr "Lakukan Kembali Pengundian"
 
 #: draw/templates/draw_base.html:19
 msgid "Draw Details"
-msgstr ""
+msgstr "Detail Pengundian"
 
 #: draw/templates/draw_base.html:23
 msgid "Position Balance"
-msgstr ""
+msgstr "Posisikan Keseimbangan"
 
 #: draw/templates/draw_base.html:31 draw/templates/draw_display_admin.html:4
 #: draw/templates/draw_display_admin.html:5
 #: draw/templates/draw_display_assistant.html:4
 #: draw/templates/draw_display_assistant.html:5
 msgid "Display Draw"
-msgstr ""
+msgstr "Tampilkan Pengundian"
 
 #: draw/templates/draw_confirm_regeneration.html:5
 msgid "Confirm draw regeneration"
-msgstr ""
+msgstr "Konfirmasi pembangkitan ulang undian"
 
 #: draw/templates/draw_confirm_regeneration.html:10
 #: draw/templates/draw_subpage.html:6
 msgid "Back to Draw"
-msgstr ""
+msgstr "Kembali ke Pengundian"
 
 #: draw/templates/draw_confirm_regeneration.html:16
 #, python-format
 msgid "Confirm Draw Deletion for %(round)s"
-msgstr ""
+msgstr "Konfirmasi Penghapusan Pengundian untuk %(round)s"
 
 #: draw/templates/draw_confirm_regeneration.html:22
 #, python-format
@@ -549,7 +549,7 @@ msgstr "Apakah anda benar ingin membuat ulang draw untuk %(round)s? Ini akan men
 #: draw/templates/draw_confirm_regeneration.html:33
 #, python-format
 msgid "Yes, I want to delete the current draw for %(round)s"
-msgstr ""
+msgstr "Ya, saya ingin menghapus pengundian saat ini untuk %(round)s"
 
 #: draw/templates/draw_display_admin.html:17
 msgid "View Draw"
@@ -558,19 +558,19 @@ msgstr "Lihat Pengundian"
 #: draw/templates/draw_display_admin.html:23
 #, python-format
 msgid "Debates start at %(start_time)s"
-msgstr ""
+msgstr "Debat dimulai pada %(start_time)s"
 
 #: draw/templates/draw_display_admin.html:27
 msgid "Add Start Time"
-msgstr ""
+msgstr "Tambahkan Waktu Mulai"
 
 #: draw/templates/draw_display_admin.html:34
 msgid "Enter Results"
-msgstr ""
+msgstr "Masukkan Hasil"
 
 #: draw/templates/draw_display_admin.html:46
 msgid "Motion Details"
-msgstr ""
+msgstr "Detail Mosi"
 
 #. Translators: Used when only one motion is expected, but there is more than one.
 #: draw/templates/draw_display_admin.html:54
