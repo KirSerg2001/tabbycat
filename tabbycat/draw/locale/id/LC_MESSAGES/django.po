@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-11-04 23:57\n"
+"PO-Revision-Date: 2020-11-05 00:12\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -430,21 +430,21 @@ msgstr "Tabbycat mewajibkan seluruh debat memilik <strong>tepat</strong> satu ti
 #: draw/templates/admin/draw/debateteam/delete_warning.html:15
 #: draw/templates/admin/draw/debateteam/edit_warning.html:15
 msgid "This is a common source of errors. If it happens to you, check the debates (under the Draw section in this Edit Database area) and ensure that all of them have exactly one affirmative and one negative team."
-msgstr ""
+msgstr "Ini adalah sumber masalah yang umum. Jika terjadi pada Anda, cek debat-debatnya (seksi Pengundian di dalam area Sunting Basisdata ini) dan pastikan semuanya memiliki tepat satu tim afirmatif dan satu tim negatif."
 
 #: draw/templates/admin/draw/debateteam/edit_warning.html:5
 msgid "WARNING!!! If you are editing debate teams, read this first!"
-msgstr ""
+msgstr "PERHATIAN!!! Jika Anda menyunting tim debat, baca ini dahulu!"
 
 #: draw/templates/admin/draw/debateteam/edit_warning.html:10
 msgid "Tabbycat requires that there be <strong>exactly</strong> one debate team for each side, and no other debate teams, in each debate. If you edit debate teams in the database, you must ensure that this remains the case. If you don't do this correctly, many pages <strong>will</strong> crash."
-msgstr ""
+msgstr "Tabbycat mewajibkan seluruh debat memilik <strong>tepat</strong> satu tim debat untuk setiap sisi, dan tidak ada tim debat lain, pada setiap debat. Jika Anda menyunting tim debat pada basisdata, Anda harus memastikan bahwa ini tetap berlaku. Jika Anda tidak melakukannya dengan benar, banyak halaman <strong>akan</strong> crash."
 
 #: draw/templates/draw_alerts_adjudicators.html:6
 #, python-format
 msgid "1 debate does not have a chair."
 msgid_plural "%(ndebates)s debates do not have a chair."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat tidak memiliki ketua."
 
 #: draw/templates/draw_alerts_adjudicators.html:15
 #, python-format
