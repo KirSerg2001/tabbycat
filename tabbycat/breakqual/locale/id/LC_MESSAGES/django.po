@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-10-28 03:05\n"
+"PO-Revision-Date: 2020-11-06 04:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -494,16 +494,16 @@ msgstr "Perubahan pada catatan tim breaking disimpan dan break tim diperbarui un
 #: breakqual/views.py:167
 #, python-format
 msgid "Changes to breaking team remarks saved and teams break updated for break category %(category)s."
-msgstr ""
+msgstr "Perubahan pada catatan tim breaking tersompan dan tim yang break terbarui untuk kategori break %(category)s."
 
 #: breakqual/views.py:172
 msgid "Changes to breaking team remarks saved."
-msgstr ""
+msgstr "Perubahan pada catatan tim breaking tersimpan."
 
 #: breakqual/views.py:196
 #, python-format
 msgid "Teams break generated for the following break categories: %(categories)s."
-msgstr ""
+msgstr "Break tim terbangkitkan untuk kategori break berikut: %(categories)s."
 
 #: breakqual/views.py:209
 msgid "Breaking Adjudicators"
